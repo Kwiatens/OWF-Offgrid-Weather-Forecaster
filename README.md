@@ -1,2 +1,2 @@
 # Meshtastic-OWF
-An offgrid local meshtastic powered weather forecaster.
+An offgrid local Meshtastic® powered weather forecaster.
