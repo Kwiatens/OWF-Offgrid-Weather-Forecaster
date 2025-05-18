@@ -1,1 +1,1 @@
-- OWF R1 weather icon by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
+- OWF R1 PCB weather icon by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
