@@ -1,0 +1,1 @@
+- OWF R1 weather icon by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
