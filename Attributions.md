@@ -1,2 +1,2 @@
 - OWF R1 PCB weather icon by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
-- OWF R1 PCB Snieżka photo by: https://www.flickr.com/photos/polandmfa/7176345097
+- OWF R1 PCB Snieżka photo by: https://commons.wikimedia.org/wiki/File:Karpacz_-_%C5%9Anie%C5%BCka_17_-_panoramio.jpg
