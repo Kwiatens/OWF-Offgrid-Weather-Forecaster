@@ -21,7 +21,7 @@ _Disclaimer: This license does not grant you any trademark or patent rights._
 
 ---
 
-## Software
+## Software (OWF Firmware)
 
 The software source code, scripts, and firmware in this project are licensed under the terms of the  
 **GNU General Public License v3.0 with a Non-Commercial Addendum**.
