@@ -1,1 +1,2 @@
-- OWF R1 PCB weather icon by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
+- Weather icon on OWF R1 PCB by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
+- Warning icon on OWF R1 PCB by: https://icon-icons.com/icon/error-attention-notification-warning-alert/219846
