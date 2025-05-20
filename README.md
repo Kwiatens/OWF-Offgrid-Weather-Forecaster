@@ -1,4 +1,4 @@
-# Meshtastic-OWF
+# Meshtastic powered Offgrid Weather Forecaster (OWF)
 An offgrid, local, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use interntet for forecasting. **It uses it's own sensors to calculate weather predictions from Zambretti algorithm.**
 
 ## [This project is work-in progress!]
