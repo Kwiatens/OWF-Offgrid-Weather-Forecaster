@@ -24,8 +24,8 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 
 | Folder       | Contents                              |
 |--------------|----------------------------------------|
-| `firmware/`  | Arduino source code and libraries      |
-| `hardware/`  | Schematic, PCB layout, BOM             |
+| `firmware/`  | OWF Firmware                           |
+| `hardware/`  | Gerber PCB manufacturing files         |
 | `docs/`      | Design notes and protocol description  |
 | `images/`    | Photos, diagrams, and renders          |
 
