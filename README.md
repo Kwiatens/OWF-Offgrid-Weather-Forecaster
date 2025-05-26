@@ -16,7 +16,7 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 
 TODO
 
-## OWF R1 Hardware Overview
+## OWF R1 Board Hardware Overview
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
 - Transciever: LoRa HT-RA62 ([Meshtastic](https://meshtastic.org/)®)
