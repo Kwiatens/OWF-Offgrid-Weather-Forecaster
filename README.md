@@ -12,6 +12,10 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 - Fully offgrid operation - It does **not** use the internet, WiFi etc.
 - Powered by a small 1W solar panel.
 
+## Getting Started
+
+TODO
+
 ## OWF R1 Hardware Overview
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
@@ -29,9 +33,6 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 | `docs/`      | Design notes and protocol description  |
 | `images/`    | Photos, diagrams, and renders          |
 
-## Getting Started
-
-TODO
 
 ## Legal
 [Meshtastic](https://meshtastic.org/)® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses. No warranty is provided – use at your own risk.
