@@ -6,14 +6,19 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 
 ## Features
 
-- Fully offgrid operation (No internet etc. - everything is running on the board itself)
+- Send morning weather raports every day.
+- Send a weather raport on demand.
+- Send an alert when weather suddenly changed.
+- Fully offgrid operation - It does **not** use the internet, WiFi etc.
+- Powered by a small 1W solar panel.
 
 ## OWF R1 Hardware Overview
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
+- Transciever: LoRa HT-RA62 ([Meshtastic](https://meshtastic.org/)®)
 - Power: Solar + 2 18650 LiIon sockets with charging modules
 - Sensor: BME280/BMP280 + optional anemometer
-- RTC
+- RTC: DS1302 with backup battery
   
 ## Repository Structure
 
