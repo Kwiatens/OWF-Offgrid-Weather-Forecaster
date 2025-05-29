@@ -1,4 +1,4 @@
-# Original OWF (Offgrid Weather Forecaster)
+# Original OWF (Offgrid Weather Forecaster) by Kwiatens
 <p align="center">
   <img src="https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/images/Original_OWFR1_logo_white.png?raw=true" alt="OWF" />
 </p>
@@ -17,9 +17,9 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 
 ## Getting Started
 Great! So you want to build your own OWF board - that's cool!
-You can click [Here]() to begin your build.
+You can click [Here](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/01_Getting_Started.md) to begin your build.
 
-## OWF R1 Board Hardware Overview
+## Quick OWF R1 Board Hardware Overview
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
 - Transciever: LoRa HT-RA62 ([Meshtastic](https://meshtastic.org/)®)
