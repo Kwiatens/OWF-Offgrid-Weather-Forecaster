@@ -12,7 +12,6 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 - Offgrid weather forecasting based on integrated sensor data only - computed by the board itself.
 - The forecaster can send morning and/or on demand weather raports.
 - Many OWF units can be linked together to form a more detailed and rich forecast.
-- When calibrated the OWF can make a 12 hour prediction with >90% accuracy.
 - More stuff :)
 
 ## Getting Started
