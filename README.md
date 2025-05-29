@@ -22,7 +22,7 @@ You can click [here](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
 - Transciever: LoRa HT-RA62 ([Meshtastic](https://meshtastic.org/)®)
-- Power: Solar + 2 18650 LiIon sockets with charging modules
+- Power: Solar + dual or single 18650 Li-Ion socket with charging modules
 - Sensor: BME280/BMP280 + optional anemometer
 - RTC: DS1302 with backup battery
   
