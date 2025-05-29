@@ -34,7 +34,7 @@ The OWF firmware and related software are licensed under the:
 ### Additional Restriction – Non-Commercial Use Only
 
 > **Commercial use is strictly prohibited.**  
-> You may not use this software, or any derivative work, in products, services, or any context that generates income or commercial advantage.
+> You may not use this software/firmware, or any derivative work, in products, services, or any context that generates income or commercial advantage.
 
 ---
 
