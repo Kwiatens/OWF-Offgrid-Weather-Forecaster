@@ -28,8 +28,8 @@ TODO
 
 | Folder       | Contents                              |
 |--------------|----------------------------------------|
-| `firmware/`  | OWF Firmware                           |
-| `hardware/`  | Gerber PCB manufacturing files         |
+| `OWF_Firmware/`  | OWF Firmware                       |
+| `OWF_PCB_Files/` | Gerber PCB manufacturing files     |
 | `docs/`      | Design notes and protocol description  |
 | `images/`    | Photos, diagrams, and renders          |
 
