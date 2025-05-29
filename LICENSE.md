@@ -24,7 +24,7 @@ Under the following terms:
 
 ---
 
-## 💻 Software License (Firmware & Code)
+## 💻 Firmware License
 
 The OWF firmware and related software are licensed under the:
 
