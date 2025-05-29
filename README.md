@@ -9,15 +9,15 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 
 ## Features
 
-- Send morning weather raports every day.
-- Send a weather raport on demand.
-- Send an alert when weather suddenly changed.
-- Fully offgrid operation - It does **not** use the internet, WiFi etc.
-- Powered by a small 1W solar panel.
+- Offgrid weather forecasting based on integrated sensor data only - computed by the board itself.
+- The forecaster can send morning and/or on demand weather raports.
+- Many OWF units can be linked together to form a more detailed and rich forecast.
+- When calibrated the OWF can make a 12 hour prediction with >90% accuracy.
+- More stuff :)
 
 ## Getting Started
-
-TODO
+Great! So you want to build your own OWF board - that's cool!
+You can click [Here]() to begin your build.
 
 ## OWF R1 Board Hardware Overview
 
