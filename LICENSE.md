@@ -1,9 +1,12 @@
-# License
+# OWF Project License
 
-## Hardware
+---
 
-The hardware designs and documentation of this project are licensed under the  
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.  
+## 🛠️ Hardware License
+
+The hardware designs and documentation in this project are licensed under the:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 You are free to:
@@ -15,38 +18,46 @@ Under the following terms:
 
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
 - **NonCommercial** — You may not use the material for commercial purposes.  
-- **ShareAlike** — If you remix, transform, or build upon the material, you must license your contributions under the same license.  
+- **ShareAlike** — If you remix or build upon the material, you must license your contributions under the same terms.
 
-_Disclaimer: This license does not grant you any trademark or patent rights._
-
----
-
-## Software (OWF Firmware)
-
-The software source code, scripts, and firmware in this project are licensed under the terms of the  
-**GNU General Public License v3.0 with a Non-Commercial Addendum**.
-
-🔗 https://www.gnu.org/licenses/gpl-3.0.html
-
-### Additional Non-Commercial Clause
-
-> **Commercial use is strictly prohibited.**  
-> You may not sell, license, or use this software, or any derivative works, as part of any product or service that is sold or otherwise used for commercial advantage.
+> _Note: This license does not grant you any trademark, patent, or branding rights._
 
 ---
+
+## 💻 Software License (Firmware & Code)
+
+The firmware, scripts, and software components in this project are released under a **custom license**:
+
+> Based on the **GNU General Public License v3.0**  
+> 🔗 https://www.gnu.org/licenses/gpl-3.0.html  
+> **With an additional non-commercial use restriction.**
 
 ### You Are Free To:
-
 - Use, study, and modify the software  
-- Distribute your changes under the same license  
+- Distribute unmodified or modified versions  
 - Use it only for **non-commercial** purposes  
 
 ### You Must:
+- Include this license and copyright  
+- Disclose source code for any distributed changes  
+- Apply this same license to any derivative works  
+- Clearly indicate any modifications made
 
-- Include this license and copyright notice  
-- Disclose your source code if you distribute modified versions  
-- Clearly indicate changes made  
-- License derivative works under the same terms  
-- Refrain from using the software in any **commercial context**
+### You May NOT:
+- Use the software for any **commercial purpose**
+- Sell, license, or distribute the software as part of a paid product or service
+
+> **Commercial Use Definition**: Any activity involving sale, licensing, integration into a commercial product, monetized distribution, or use in a paid service.
 
 ---
+
+## 📌 Summary (TL;DR)
+
+You can:
+- Use this for free projects, experiments, and education
+- Share and remix it if you credit me and don’t sell it
+
+You cannot:
+- Sell it, include it in a commercial product, or profit from it in any way
+
+Contact me at [your.email@example.com] to request commercial licensing or partnership.
