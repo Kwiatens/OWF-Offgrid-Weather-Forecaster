@@ -2,9 +2,9 @@
 
 ---
 
-## 🛠️ Hardware License
+## Hardware License
 
-The hardware designs and documentation of this project are licensed under:
+The hardware designs and documentation in this project are licensed under:
 
 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**  
 🔗 https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -14,31 +14,31 @@ You are free to:
 - **Share** — copy and redistribute the material in any medium or format  
 - **Adapt** — remix, transform, and build upon the material  
 
-Under the following terms:
+Under the following conditions:
 
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made  
 - **NonCommercial** — You may not use the material for commercial purposes  
 - **ShareAlike** — You must distribute your contributions under the same license
 
-> _Note: This license does not grant trademark or patent rights._
+> Note: This license does not grant any trademark or patent rights.
 
 ---
 
-## 💻 Firmware License
+## Firmware License
 
-The OWF firmware and related software are licensed under the:
+The OWF firmware and related software are licensed under:
 
 **GNU General Public License v3.0**  
 🔗 https://www.gnu.org/licenses/gpl-3.0.html
 
 ### Additional Restriction – Non-Commercial Use Only
 
-> **Commercial use is strictly prohibited.**  
-> You may not use this software/firmware, or any derivative work, in products, services, or any context that generates income or commercial advantage.
+Commercial use of this software is strictly prohibited.  
+You may not use this firmware, or any derivative work, in products, services, or any context that generates income or commercial advantage.
 
 ---
 
-### You Are Free To:
+### You May:
 
 - Use, study, and modify the source code  
 - Distribute modified or unmodified versions  
@@ -46,21 +46,23 @@ The OWF firmware and related software are licensed under the:
 
 ### You Must:
 
-- Provide this license and copyright  
-- Publish your source code if distributing changes  
-- Clearly mark any modifications  
-- License derivative works under the same terms
+- Include this license with any distribution  
+- Publish your source code if distributing modified versions  
+- Clearly indicate any changes made  
+- Apply the same license (including the non-commercial clause) to derivative works
 
 ---
 
-## 📌 Summary
+## Summary
 
-✅ You CAN:
-- Use, study, and remix the hardware and firmware **non-commercially**
-- Share your improvements (with credit)
+**You can:**
 
-🚫 You CANNOT:
-- Sell OWF devices or use the firmware/software in a paid product or service
-- Include this in monetized content or commercial kits
+- Use, modify, and share the hardware and firmware for non-commercial purposes  
+- Publish derivatives if properly attributed and under the same license terms
 
-> For commercial licensing inquiries, contact: todo
+**You cannot:**
+
+- Sell OWF hardware or use the firmware/software in paid products or services  
+- Use this work in monetized content, kits, or any commercial offering
+
+> For commercial licensing inquiries, contact: TODO
