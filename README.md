@@ -14,7 +14,7 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 - Many OWF units can be linked together to form a more detailed and rich forecast.
 - More stuff :)
 
-## Getting Started
+# Getting Started
 Great! So you want to build your own OWF board - that's cool!
 You can click [here](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/01_Getting_Started.md) to begin your build.
 
