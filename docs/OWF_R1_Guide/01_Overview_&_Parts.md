@@ -4,16 +4,6 @@ This section provides an overview of the OWF hardware and a complete Bill of Mat
 
 The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It features solar-powered operation, an onboard atmospheric sensor, and Meshtastic® LoRa communication.
 
-## Hardware Summary
-
-- **Microcontroller:** Arduino Pro Mini 3.3V @ 8 MHz  
-- **Radio Module:** NRF52840 (Pro Micro form factor)  
-- **LoRa Transceiver:** HT-RA62 (Meshtastic-compatible)  
-- **Sensor:** BME280 or BMP280 (BME280 Is HIGHLY recommended due to the ability of humidity measurement) 
-- **Real-Time Clock:** DS1302 with CR2032 backup battery  
-- **Power System:** 1W+ solar panel, dual 18650 battery sockets, TP4056 charging modules  
-- **Optional:** Custom OWF Anemometer (Coming soon) or additional I²C/SPI sensors
-
 ## Bill of Materials (BOM)
 
 | Item                     | Quantity | Notes                                                                 | Example Link |
