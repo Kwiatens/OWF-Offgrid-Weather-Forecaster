@@ -15,8 +15,11 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 - More stuff :)
 
 # Getting Started
-Great! So you want to build your own OWF board - that's cool!
-You can click [here](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/01_Getting_Started.md) to begin your build.
+Great! So you want to build your own OWF board, huh :p
+
+To get started, head over to the [**Building OWF**](#building-owf) section, where you'll find everything you need to assemble your own device - including hardware options, component lists, and step-by-step instructions.
+
+Whether you're an experienced builder or new to DIY electronics, OWF is designed to be simple, affordable, and reliable to put together.
 
 ## Quick OWF R1 Board Hardware Overview
 
