@@ -10,7 +10,8 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 ## Features
 
 - Offgrid weather forecasting based on integrated sensor data only - computed by the board itself.
-- The forecaster can send morning and/or on demand weather raports.
+- The forecaster can send morning and on demand weather raports, featuring both current weather data and the prediction itself.
+- Emergency weather alerts such as a high wind or storm warning.
 - Many OWF units can be linked together to form a more detailed and rich forecast.
 - More stuff :)
 
