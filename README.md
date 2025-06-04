@@ -7,6 +7,7 @@ OWF™ is an affordable, offgrid, [Meshtastic](https://meshtastic.org/)® powere
 When calibrated, it can be over 90% accurate for 12 hour predictions!
 
 More information about the project on [our Discord Server](https://discord.gg/Jbdw9DENTZ).
+
 **Project in development!**
 
 ## Getting Started
