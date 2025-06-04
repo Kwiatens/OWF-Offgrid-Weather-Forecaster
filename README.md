@@ -34,6 +34,7 @@ Whether you're an experienced builder or new to DIY electronics, OWF is designed
   
 ## Legal
 Original OWF by Kwiatens™  
+No warranty is provided – use at your own risk.
 
 “OWF” and “Original OWF by Kwiatens” are unregistered trademarks of Kwiatens.  
 Used to indicate the original maker and identity of the Offgrid Weather Forecaster project.
