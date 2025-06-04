@@ -8,6 +8,11 @@ When calibrated, it can be over 90% accurate for 12 hour predictions!
 
 More information about the project on [our Discord Server](https://discord.gg/Jbdw9DENTZ).
 
+## Getting Started
+
+Great! So you want to build your own OWF board, huh :p
+
+To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/00_Getting_Started.md) section, where you'll find everything you need to assemble your own device - including hardware options, component lists, and step-by-step instructions.
 ## Features
 
 - Offgrid weather forecasting based on integrated sensor data only - computed by the board itself.
@@ -15,11 +20,6 @@ More information about the project on [our Discord Server](https://discord.gg/Jb
 - Emergency weather alerts such as a high wind or storm warning.
 - Many OWF units can be linked together to form a more detailed and rich forecast.
 - More stuff :)
-
-# Getting Started
-Great! So you want to build your own OWF board, huh :p
-
-To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/00_Getting_Started.md) section, where you'll find everything you need to assemble your own device - including hardware options, component lists, and step-by-step instructions.
 
 ## Future plans
 
