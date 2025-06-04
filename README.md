@@ -30,17 +30,8 @@ Whether you're an experienced builder or new to DIY electronics, OWF is designed
 - Power: Solar + dual or single 18650 Li-Ion socket with charging modules
 - Sensor: BME280/BMP280 + optional anemometer
 - RTC: DS1302 with backup battery
+
   
-## Repository Structure
-
-| Folder       | Contents                              |
-|--------------|----------------------------------------|
-| `OWF_Firmware/`  | OWF Firmware                       |
-| `OWF_PCB_Files/` | Gerber PCB manufacturing files     |
-| `docs/`      | Design notes and protocol description  |
-| `images/`    | Photos, diagrams, and renders          |
-
-
 ## Legal
 Original OWF by Kwiatens™  
 
