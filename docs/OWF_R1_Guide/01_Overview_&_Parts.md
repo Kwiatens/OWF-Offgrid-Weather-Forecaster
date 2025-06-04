@@ -6,7 +6,7 @@ The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It feature
 
 ## Bill of Materials (BOM)
 
-| Item                     | Quantity | Notes                                                                 | Example Link |
+| Item                     | Quantity | Notes                                                                 | Purchase link |
 |--------------------------|----------|------------------------------------------------------------------------|--------------|
 | Arduino Pro Mini 3.3V    | 1        | 8 MHz version (low power)                                              | [AliExpress](https://www.aliexpress.com/wholesale?SearchText=arduino+pro+mini+3.3v) |
 | NRF52840 Pro Micro       | 1        | This board runs Meshtastic® firmware                                   | |
@@ -20,5 +20,5 @@ The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It feature
 | Custom PCB (OWF R1)      | 1        | See `/hardware/` folder for Gerber files                               | |
 | Misc. headers and wiring | —        | For connecting modules and debugging                                   | |
 
-*BME280 Highly recommended as BMP280 does not measure air humidity - meaning you won't have access to some important features.
-> You can order most of these components from the links attached in the table.
+> *BME280 is highly recommended as BMP280 does not measure air humidity - meaning you won't have access to some important features.
+
