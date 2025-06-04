@@ -1,4 +1,4 @@
-# Building OWF – 01 | Overview and Bill of Materials (BOM)
+# Building OWF R1 – 01 | Overview and Bill of Materials (BOM)
 
 This section provides an overview of the OWF hardware and a complete Bill of Materials (BOM) needed to build the **OWF R1** board.
 
