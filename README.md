@@ -21,6 +21,11 @@ Great! So you want to build your own OWF board, huh :p
 
 To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/00_Getting_Started.md) section, where you'll find everything you need to assemble your own device - including hardware options, component lists, and step-by-step instructions.
 
+## Future plans
+
+- Anemometer addon
+- Lightning detector addon
+
 ## Quick OWF R1 Board Hardware Overview
 
 - MCU: Arduino Pro Mini 3.3V @8 MHz + NRF52840 ProMicro
