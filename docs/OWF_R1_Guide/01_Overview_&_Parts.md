@@ -15,7 +15,7 @@ The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It feature
 | DS1302 RTC Module        | 1        | DS1302 RTC Module (Desolder the oscilator and battery holder, take out the IC from the socket (everything is cheaper that way)| |
 | TP4056 charging module   | 2        | One per 18650 cell                                                     | |
 | 18650 battery holder     | 2        | 2 cell or 1 cell holder                                                | |
-| 1W+ solar panel          | 1        | Must supply at least 5V in sunlight                                    | |
+| 1W+ solar panel          | 1        | Must supply at least 5V                                                | |
 | Various resistors/caps   | —        |                                                                        | |
 | Custom PCB (OWF R1)      | 1        | See `/hardware/` folder for Gerber files                               | |
 | Misc. headers and wiring | —        | For connecting modules and debugging                                   | |
