@@ -13,7 +13,7 @@ The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It feature
 | HT-RA62 868MHz LoRa module      | 1        | **868MHz Version!** This IC allows Meshtastic® for communication    | [AliExpress](https://pl.aliexpress.com/item/1005005543917617.html?spm=a2g0o.order_list.order_list_main.112.7cac1c24H9nd8a&gatewayAdapt=glo2pol)               |
 | BME280 or BMP280*        | 1        | **3.3V Version!** I²C air pressure, temperature and humidity sensor*       | [AliExpress](https://pl.aliexpress.com/item/1005008059227856.html?spm=a2g0o.order_list.order_list_main.5.7cac1c24H9nd8a&gatewayAdapt=glo2pol)                 |
 | DS1302 RTC Module        | 1        | DS1302 RTC Module (Desolder the oscillator and battery holder, take out the IC from the socket – everything is cheaper that way) |                |
-| TP4056 charging module   | 2        | One per 18650 cell                                                     |                |
+| TP4056 charging module   | 2        | One module per 18650 cell                                              |                |
 | 18650 battery holder     | 2        | 2 cell or 1 cell holder                                                |                |
 | 1W+ solar panel          | 1        | Must supply at least 5V                                                |                |
 | Various resistors/caps   | —        |                                                                        |                |
