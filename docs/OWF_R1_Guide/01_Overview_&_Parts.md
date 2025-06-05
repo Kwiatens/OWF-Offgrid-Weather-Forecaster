@@ -8,8 +8,7 @@ The OWF R1 is the baseline version of the Offgrid Weather Forecaster. It feature
 
 | Item                     | Quantity | Notes                                                                 | Purchase link |
 |--------------------------|----------|------------------------------------------------------------------------|--------------|
-| Arduino Pro Mini 3.3V    | 1        | 8 MHz version (low power)                                              | [AliExpress](https://pl.aliexpress.com/item/1005006843855788.htmlspm=a2g0o.order_list.order_list_main.11.7cac1c24H9nd8a&gatewayAdapt=glo2pol) |
-
+| Arduino Pro Mini 3.3V    | 1        | 8 MHz version (low power)                                              | [AliExpress]((https://pl.aliexpress.com/item/1005006843855788.htmlspm=a2g0o.order_list.order_list_main.11.7cac1c24H9nd8a&gatewayAdapt=glo2pol)) |
 | NRF52840 Pro Micro       | 1        | This board runs Meshtastic® firmware                                   | |
 | HT-RA62 LoRa module      | 1        | Or similar SX1262-based module                                         | |
 | BME280 or BMP280*        | 1        | I²C air pressure, temperature and humidity sensor*                     | |
