@@ -3,8 +3,12 @@
   <img src="https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/images/Original_OWFR1_logo_white.png?raw=true" alt="OWF" />
 </p>
 
-OWF™ is an affordable, offgrid, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use the internet. **Instead it uses its own sensors to calculate weather predictions using an Zambretti algorithm with a couple of custom algorithms**.
+OWF™ is an affordable, DiY, offgrid, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use the internet. **Instead it uses its own sensors to calculate weather predictions using an Zambretti algorithm with a couple of custom algorithms**.
 When calibrated, it can be over 90% accurate for 12 hour predictions!
+
+The board can be build with very basic knowledge of electronics, soldering etc. The project has a step by step guide that will go through everything (including common issues).
+
+Don’t worry if you don’t want to build one yourself - we’ll be offering them for sale once everything is ready!
 
 More information about the project on [our Discord Server](https://discord.gg/Jbdw9DENTZ).
 
