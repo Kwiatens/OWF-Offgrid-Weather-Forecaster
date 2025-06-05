@@ -21,7 +21,8 @@ Great! So you want to build your own OWF board, huh :p
 To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/docs/00_Getting_Started.md) section, where you'll find everything you need to assemble your own device - including hardware options, component lists, and step-by-step instructions.
 ## Features
 
-- Offgrid weather forecasting based on integrated sensor data only - computed by the board itself.
+- 100% off-grid operation, no MQTT, no internet connection needed. Everything is computed and ran directly on the OWF board itself. (Ideal for preppers - ready for a zombie apocalypse :p)
+- Weather forecasting based on integrated sensor data only.
 - The forecaster can send morning and on demand weather raports, featuring both current weather data and the prediction itself.
 - Emergency weather alerts such as a high wind or storm warning.
 - Many OWF units can be linked together to form a more detailed and rich forecast.
