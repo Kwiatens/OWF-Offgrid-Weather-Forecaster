@@ -30,8 +30,8 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 
 ## Future plans
 
-- Anemometer addon
-- Lightning detector addon
+- More addons like: anemometer or lightning detection unit.
+- OWF Flasher website for convinient device flashing and configuring.
 
 ## Quick OWF R1 Board Hardware Overview
 
