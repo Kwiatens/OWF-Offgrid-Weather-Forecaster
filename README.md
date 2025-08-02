@@ -6,9 +6,10 @@
 OWF™ is an affordable, DiY, offgrid, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use the internet. **Instead it uses its own sensors to calculate weather predictions using a couple of custom algorithms that are based on Zambretti method.**
 When calibrated, it can be over 90% accurate for 12 hour predictions!
 
-The board can be build with very basic knowledge of electronics, soldering etc. The project has a step by step guide that will go through everything (including common issues).
+The board can be build with moderate knowledge of electronics, soldering etc (SMD Components are present) 
+The project has a step by step guide that will go through everything (including common issues).
 
-Don’t worry if you don’t want to build one yourself - we’ll be offering them for sale once everything is ready!
+Don’t worry if you don’t want to build one yourself - **we’ll be offering them for sale once everything is ready!**
 
 More information about the project on [our Discord Server](https://discord.gg/Jbdw9DENTZ).
 
