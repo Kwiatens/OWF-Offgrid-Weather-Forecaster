@@ -1,4 +1,4 @@
-- NRF52 + HT-RA62 circuitry inspired by [fakeTec PCB](https://github.com/gargomoma/fakeTec_pcb).
+- OWF R1 NRF52 + HT-RA62 circuitry inspired by [fakeTec PCB](https://github.com/gargomoma/fakeTec_pcb).
 
 - Weather icon on OWF R1 PCB by: https://icon-icons.com/users/wHtrYicqDaGHEqsNHwMYq/icon-sets/
 - Warning icon on OWF R1 PCB by: https://icon-icons.com/icon/error-attention-notification-warning-alert/219846
