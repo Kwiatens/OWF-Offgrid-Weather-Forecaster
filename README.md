@@ -46,8 +46,9 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 - RTC: DS1302 with backup battery
 
 ## Legal
-Original OWF by Kwiatens™  
-No warranty is provided – use at your own risk.
+Disclaimer – Original OWF by Kwiatens™
+No warranty is provided – use at your own risk. This device is intended for personal and educational purposes only and is not certified for professional, commercial, or safety-critical applications, including but not limited to aviation, maritime, or meteorological services. Do not use near airports or in any environment where interference with communications, navigation, or safety systems could occur. The creator assumes no responsibility for any damage, injury, loss, or legal consequences arising from the use or misuse of this product.
+
 
 “OWF” and “Original OWF by Kwiatens” are unregistered trademarks of Kwiatens.  
 Used to indicate the original maker and identity of the Offgrid Weather Forecaster project.
