@@ -26,11 +26,15 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 - Emergency weather alerts such as a high wind or storm warning.
 - 3D Printable enclosure and mounting system.
 
-## Future plans
+## Currenly working on (OWF R1)
+- Feedback based calibration algorithm
+- Hourly weather forecast
+  
+## Future plans (OWF R2)
 
-- OWF Flasher website for convinient device flashing and configuring.
+- OWF App for PC and Mobile for convinient OTA updating, viewing data and configuraing the device.
 - More addons like: anemometer, lightning detection unit, rain guage etc.
-- Making many OWF units to link together to form a more detailed and rich forecast.
+- Making many OWF units to link together to form a mesh of forecasters - more detailed and rich forecast.
 
 ## Quick OWF R1 Board Hardware Overview
 
