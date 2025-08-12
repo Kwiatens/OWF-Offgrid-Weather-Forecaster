@@ -13,7 +13,7 @@ Don’t worry if you don’t want to build one yourself - **we’ll be offering 
 
 More information about the project on [our Discord Server](https://discord.gg/Jbdw9DENTZ).
 
-**Project in development!**
+### **Project is WIP**
 
 ## Getting Started
 
