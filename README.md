@@ -3,7 +3,7 @@
   <img src="https://github.com/Kwiatens/OWF-Offgrid-Weather-Forecaster/blob/main/images/Original_OWFR1_logo_white.png?raw=true" alt="OWF" />
 </p>
 
-OWF™ is an affordable, DiY, offgrid, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use the internet. **Instead it uses its own sensors to calculate weather predictions using a couple of custom algorithms that are based on Zambretti method.**
+OWF™ is an affordable, DiY, fully offgrid, [Meshtastic](https://meshtastic.org/)® powered weather forecaster that does **NOT** use the internet for its forecasts. **Instead it uses its own sensors to calculate weather predictions using a couple of custom algorithms that are based on Zambretti method.**
 When calibrated, it can be over 90% accurate for 12 hour predictions!
 
 The board can be build with moderate knowledge of electronics, soldering etc (SMD Components are present) 
@@ -35,6 +35,7 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 - OWF App for PC and Mobile for convinient OTA updating, viewing data and configuraing the device.
 - More addons like: anemometer, lightning detection unit, rain guage etc.
 - Making many OWF units to link together to form a mesh of forecasters - more detailed and rich forecast.
+- Better hardware (RTC, Sensors, MCU etc.)
 
 ## Quick OWF R1 Board Hardware Overview
 
@@ -44,7 +45,6 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 - Sensor: BME280/BMP280 + optional anemometer
 - RTC: DS1302 with backup battery
 
-  
 ## Legal
 Original OWF by Kwiatens™  
 No warranty is provided – use at your own risk.
