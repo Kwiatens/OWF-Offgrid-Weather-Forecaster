@@ -28,6 +28,7 @@ To get started, head over to the [**Building OWF**](https://github.com/Kwiatens/
 ## Currenly working on (OWF R1)
 - Feedback based calibration algorithm
 - Hourly weather forecast
+- Improving the forecast accuracy with Markov chains
   
 ## Future plans (OWF R2)
 
